@@ -85,8 +85,8 @@ PLAYERS
       • Player 1
       • Player 2
       • Player 3
-      • Player 
-      • ... and .... more
+      • Player 4
+      • ... and more
 
 TECHNICAL INFO
    Ping: 45ms
@@ -109,3 +109,4 @@ This tool uses publicly available APIs and standard network protocols to check s
 ## License
 
 This project is open source and available under the MIT License.
+
