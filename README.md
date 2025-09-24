@@ -83,10 +83,10 @@ PLAYERS
    Online: 45623/100000
    Player list:
       • Player 1
-      • Player 1
-      • Player 1
-      • Player 1
-      • ... and 45619 more
+      • Player 2
+      • Player 3
+      • Player 
+      • ... and .... more
 
 TECHNICAL INFO
    Ping: 45ms
@@ -107,4 +107,5 @@ TECHNICAL INFO
 This tool uses publicly available APIs and standard network protocols to check server status. It respects server rate limits and does not perform any intrusive operations.
 
 ## License
+
 This project is open source and available under the MIT License.
